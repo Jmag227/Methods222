@@ -1,0 +1,16 @@
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\Method222.exe
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\Method222.deps.json
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\Method222.runtimeconfig.json
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\Method222.runtimeconfig.dev.json
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\Method222.dll
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\ref\Method222.dll
+C:\Users\jarom\source\repos\Method222\Method222\bin\Debug\net5.0\Method222.pdb
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.csproj.AssemblyReference.cache
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.AssemblyInfoInputs.cache
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.AssemblyInfo.cs
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.csproj.CoreCompileInputs.cache
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.dll
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\ref\Method222.dll
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.pdb
+C:\Users\jarom\source\repos\Method222\Method222\obj\Debug\net5.0\Method222.genruntimeconfig.cache
